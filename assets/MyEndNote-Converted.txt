@@ -1,0 +1,221 @@
+﻿@article{RN6475,
+   author = {Bem, Terhemba Shadrach and Liu, Chuanming and Yao, Huajian and Luo, Song and Yang, Yuan and Liu, Bin},
+   title = {Azimuthally Anisotropic structure in the Crust and Uppermost Mantle in Central East China and its Significance to Regional Deformation around the Tan‐Lu Fault Zone},
+   journal = {Journal of Geophysical Research: Solid Earth},
+   ISSN = {2169-9313
+2169-9356},
+   DOI = {10.1029/2021jb023532},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN7680,
+   author = {Bem, Terbemba Shadrach and Yao, Huajian and Luo, Song and Gao, Lei and Zhang, Haijiang and Li, Junlun},
+   title = {P-wave velocity structure in the crust and the uppermost mantle of Chao Lake region of the Tan-Lu Fault inferred from teleseismic arrival time tomography},
+   journal = {Earthquake Science},
+   DOI = {10.1016/j.eqs.2022.12.002},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN4130,
+   author = {Bem, Terhemba Shadrach and Yao, Huajian and Luo, Song and Yang, Yuan and Wang, Xingzhou and Wang, Xiaoli and Li, Lingli and Liu, Bin},
+   title = {High-resolution 3-D crustal shear-wave velocity model reveals structural and seismicity segmentation of the central-southern Tanlu Fault zone, eastern China},
+   journal = {Tectonophysics},
+   volume = {778},
+   pages = {228372},
+   ISSN = {00401951},
+   DOI = {10.1016/j.tecto.2020.228372},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5547,
+   author = {Dou, Liting and Yao, Huajian and Fang, Lihua and Luo, Song and Song, Meiqin and Yan, Xiaomei and Cheng, Cheng},
+   title = {High-resolution crustal velocity structure in the Shanxi rift zone and its tectonic implications},
+   journal = {Science China Earth Sciences},
+   ISSN = {1674-7313
+1869-1897},
+   DOI = {10.1007/s11430-020-9710-x},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN4184,
+   author = {Hu, Shaoqian and Luo, Song and Yao, Huajian},
+   title = {The Frequency-Bessel Spectrograms of Multicomponent Cross-Correlation Functions From Seismic Ambient Noise},
+   journal = {Journal of Geophysical Research: Solid Earth},
+   volume = {125},
+   number = {8},
+   ISSN = {2169-9313
+2169-9356},
+   DOI = {10.1029/2020jb019630},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN3328,
+   author = {Huang, R. and Zhu, L. P. and Encarnacion, J. and Xu, Y. X. and Tang, C. C. and Luo, S. and Jiang, X. H.},
+   title = {Seismic and Geologic Evidence of Water-Induced Earthquakes in the Three Gorges Reservoir Region of China},
+   journal = {Geophysical Research Letters},
+   volume = {45},
+   number = {12},
+   pages = {5929-5936},
+   ISSN = {0094-8276},
+   DOI = {10.1029/2018gl077639},
+   url = {<Go to ISI>://WOS:000438499100013},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN5001,
+   author = {Huang, Shuye and Yao, Huajian and Lu, Zhanwu and Tian, Xiaobo and Zheng, Yong and Wang, Rui and Luo, Song and Feng, Jikun},
+   title = {High-resolution 3-D shear-wave velocity model of the Tibetan Plateau: implications for crustal deformation and porphyry Cu deposit formation},
+   journal = {Journal of Geophysical Research: Solid Earth},
+   ISSN = {2169-9313
+2169-9356},
+   DOI = {10.1029/2019jb019215},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN4190,
+   author = {Li, Cheng and Yao, HuaJian and Yang, Yuan and Luo, Song and Wang, KangDong and Wan, KeSong and Wen, Jian and Liu, Bin},
+   title = {3-D shear wave velocity structure in the shallow crust of the Tanlu fault zone in Lujiang, Anhui, and adjacent areas, and its tectonic implications},
+   journal = {Earth and Planetary Physics},
+   volume = {4},
+   number = {2},
+   pages = {1-12},
+   ISSN = {2096-3955},
+   DOI = {10.26464/epp2020026},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5335,
+   author = {Li, Lingli and Huang, Xianliang and Yao, Huajian and Peng, Miao and Wang, Xiaoli and Bao, Ziwen and Ni, Hongyu and Li, Cheng and Yang, Yuan and Luo, Song and Hu, Shaoqian and Yang, Yuanyuan},
+   title = {Shallow shear wave velocity structure from ambient noise tomography in Hefei city and its implication for urban sedimentary environment  [in Chinese]},
+   journal = {Chinese Journal Geophysics},
+   volume = {63},
+   number = {9},
+   pages = {3307-3323},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN6503,
+   author = {Li, Lingli and Yao, Huajian and Luo, Song and Li, Junhui and Wang, Xiaoli and Ni, Hongyu and Bao, Ziwen},
+   title = {A multi-scale 3-D crust velocity model in the Hefei-Chao Lake area around the southern segment of Tanlu Fault Zone},
+   journal = {Earthquake Science},
+   volume = {34},
+   number = {4},
+   pages = {274-287},
+   ISSN = {1674-4519},
+   DOI = {10.29382/eqs-2021-0020},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN7157,
+   author = {Luo, Song and Hu, Shaoqian and Zhou, Guili and Yao, Huajian},
+   title = {Improvement of Frequency–Bessel Phase-Velocity Spectra of Multicomponent Cross-Correlation Functions from Seismic Ambient Noise},
+   journal = {Bulletin of the Seismological Society of America},
+   volume = {112},
+   number = {5},
+   pages = {2257-2279},
+   ISSN = {0037-1106
+1943-3573},
+   DOI = {10.1785/0120220027},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN4174,
+   author = {Luo, Song and Huang, Rong and Zhu, Lupei and Yao, Huajian},
+   title = {The formation of the Dabashan orocline, central China: Insights from high-resolution 3D crustal shear-wave velocity structure},
+   journal = {Tectonophysics},
+   volume = {774},
+   pages = {1-13},
+   ISSN = {00401951},
+   DOI = {10.1016/j.tecto.2019.228244},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN1467,
+   author = {Luo, S. and Luo, Y. H. and Zhu, L. P. and Xu, Y. X.},
+   title = {On the reliability and limitations of the SPAC method with a directional wavefield},
+   journal = {Journal of Applied Geophysics},
+   volume = {126},
+   pages = {172-182},
+   ISSN = {0926-9851},
+   DOI = {10.1016/j.jappgeo.2016.01.023},
+   url = {<Go to ISI>://WOS:000371361200015},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN5201,
+   author = {Luo, Song and Yao, Huajian},
+   title = {Multistage tectonic evolution of the Tanlu fault: Insights from upper crustal azimuthal anisotropy of the Chao Lake segment},
+   journal = {Tectonophysics},
+   volume = {806},
+   ISSN = {00401951},
+   DOI = {10.1016/j.tecto.2021.228795},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN3868,
+   author = {Luo, Song and Yao, Huajian and Li, Qiusheng and Wang, Weitao and Wan, Kesong and Meng, Yafeng and Liu, Bin},
+   title = {High-resolution 3D crustal S-wave velocity structure of the Middle-Lower Yangtze River Metallogenic Belt and implications for its deep geodynamic setting},
+   journal = {Science China Earth Sciences},
+   volume = {62},
+   pages = {1361-1378},
+   ISSN = {1674-7313
+1869-1897},
+   DOI = {10.1007/s11430-018-9352-9},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN4180,
+   author = {Luo, Song and Yao, Huajian and Wang, Jiannan and Wang, Kangdong and Liu, Bin},
+   title = {Direct inversion of surface wave dispersion data with multiple-grid parametrizations and its application to a dense array in Chao Lake, eastern China},
+   journal = {Geophysical Journal International},
+   volume = {225},
+   number = {2},
+   pages = {1432-1452},
+   ISSN = {0956-540X
+1365-246X},
+   DOI = {10.1093/gji/ggab036},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN7397,
+   author = {Luo, Song and Yao, Huajian and Zhang, Zhiqi and Bem, Terbemba Shadrach},
+   title = {High-resolution crustal and upper mantle shear-wave structure beneath the central-southern Tanlu fault: Implications for its initiation and evolution},
+   journal = {Earth and Planetary Science Letters},
+   volume = {595},
+   number = { },
+   ISSN = {0012821X},
+   DOI = {10.1016/j.epsl.2022.117763},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN3711,
+   author = {Luo, S. and Zhu, L. P. and Huang, R. and Luo, Y. H. and Jiang, X. H. and Hua, Y. Y.},
+   title = {Determination of crustal thickness and velocities by using receiver functions and PmP travel times},
+   journal = {Geophysical Journal International},
+   volume = {216},
+   number = {2},
+   pages = {1304-1312},
+   ISSN = {0956-540x},
+   DOI = {10.1093/gji/ggy500},
+   url = {<Go to ISI>://WOS:000462577500037},
+   year = {2019},
+   type = {Journal Article}
+}
+
