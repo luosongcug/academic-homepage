@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Song Luo # Website name
-baseURL: 'https://luosongcug.github.io' # Website URL
+baseURL: 'https://luosongcug.github.io/academic-homepage/' # Website URL
 # copyright: '&copy; 2023-{year} Song Luo'
 
 ############################
