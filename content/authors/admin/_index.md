@@ -57,21 +57,22 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0000-0002-4244-844X
+  
+  # - icon: orcid
+  #   icon_pack: ai
+  #   link: https://orcid.org/0000-0002-4244-844X
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=6Izz2e8AAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/luosongcug
-  - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Song-Luo-5
-  - icon: envelope
-    icon_pack: fas
-    link: songluo@ustc.edu.cn
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/luosongcug
+  # - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: ai
+  #   link: https://www.researchgate.net/profile/Song-Luo-5
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: songluo@ustc.edu.cn
 
   # - icon: linkedin
   #   icon_pack: fab
@@ -84,7 +85,7 @@ social:
   #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'songluo@ustc.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
