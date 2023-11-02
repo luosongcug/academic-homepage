@@ -47,7 +47,7 @@ organizations:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
+# social:
   # - icon: envelope
   #   icon_pack: fas
   #   link: '/#contact'
@@ -88,8 +88,11 @@ social:
 # email: 'songluo@ustc.edu.cn'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+# highlight_name: true
 ---
 
-Song Luo is an associate researcher of Geophysics at the School of Earth and Space Sciences, University of Science and Technology of China. The main research interests include inversion theory and technique, seismic source and wave propagation, shallow and deep Earth's structure. So far, he has published more than 20 papers in academic journals such as Earth and Planetary Science Letters, Journal of Geophysical Research: Solid Earth, Science China: Earth Science, Tectonophysics, and Geophysical Journal International.
+<!-- My research interests mainly focus on developing advanced geophysical techniques in studying multiscale Earth structures and put forward to solve issues in earthquake disaster and natural resources. -->
+My primary research interest lies in the development of novel geophysical techniques. I am particularly fascinated by the exploration of innovative methodologies to study multiscale Earth structures. By pushing the boundaries of conventional approaches, my aim is to contribute to the field by introducing cutting-edge methods that can effectively address challenges in earthquake disaster mitigation and natural resource exploration.
 {style="text-align: justify;"}
+<!-- Through my research, I strive to advance our understanding of complex Earth systems and propose impactful solutions for a sustainable future. -->
+

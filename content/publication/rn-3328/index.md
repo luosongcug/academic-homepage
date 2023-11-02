@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Geophysical Research Letters*"
-url_pdf: "<Go to ISI>://WOS:000438499100013"
+# url_pdf: "<Go to ISI>://WOS:000438499100013"
 doi: "10.1029/2018gl077639"
 ---
 

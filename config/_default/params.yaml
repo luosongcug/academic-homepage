@@ -11,45 +11,45 @@ appearance:
   font: minimal
   font_size: L
 
-# theme: Ocean
-# day_night: true
-# font: 'Rose'
-# font_size: M
+theme: Ocean
+day_night: true
+font: 'Rose'
+font_size: M
 
 # SEO
 
-# marketing:
-#   seo:
-#     site_type: Person
-#     local_business_type: ''
-#     org_name: ''
-#     description: "Song Luo's academic website."
-#     twitter: ''
-  # analytics:
-  #   google_analytics: ''
-  #   baidu_tongji: ''
-  # verification:
-  #   google: ''
-  #   baidu: ''
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: "Song Luo's academic website."
+    twitter: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Contact (edit or remove options as required)
 
-# email: songluo@ustc.edu.cn
-# phone:
-# address:
-#   street: No. 96 Jinzhai Road
-#   city: Hefei
-#   region: Anhui
-#   postcode: '230026'
-#   country: China
-#   country_code: CN
-# coordinates:
-#   latitude: ''
-#   longitude: ''
-# directions: ''
-# office_hours: ''
-# appointment_url: ''
-# contact_links:
+email: songluo@ustc.edu.cn
+phone:
+address:
+  street: No. 96 Jinzhai Road
+  city: Hefei
+  region: Anhui
+  postcode: '230026'
+  country: China
+  country_code: CN
+coordinates:
+  latitude: ''
+  longitude: ''
+directions: ''
+office_hours: ''
+appointment_url: ''
+contact_links:
 
 # Site header
 
@@ -83,44 +83,44 @@ footer:
 
 # Site features
 
-# features:
-#   syntax_highlighter:
-#     theme_light: github-light
-#     theme_dark: dracula
-#   math:
-#     enable: false
-#   privacy_pack:
-#     enable: false
-#   repository:
-#     url: 'https://github.com/luosongcug/starter-academic'
-#     content_dir: content
-#     branch: main
-#   avatar:
-#     gravatar: false
-#     shape: circle
-#   comment:
-#     provider: ''
-#     disqus:
-#       shortname: ''
-#       show_count: true
-#     commento:
-#       url: ''
-#     giscus:
-#       repo: ''
-#       repo_id: ''
-#       category: ''
-#       category_id: ''
-#   search:
-#     provider: wowchemy
-#     algolia:
-#       app_id: ''
-#       api_key: ''
-#       index_name: ''
-#       show_logo: false
-#   map:
-#     provider: ''
-#     api_key: ''
-#     zoom: 15
+features:
+  syntax_highlighter:
+    theme_light: github-light
+    theme_dark: dracula
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/luosongcug/starter-academic'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: ''
+    api_key: ''
+    zoom: 15
 
 # Extensions
 
@@ -133,6 +133,6 @@ extensions:
 
 # Security
 
-# security:
-#   # Allow frame for embedding speaker notes in slides
-#   allow_frame: true
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true

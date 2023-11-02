@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Geophysical Journal International*"
-url_pdf: "<Go to ISI>://WOS:000462577500037"
+# url_pdf: "<Go to ISI>://WOS:000462577500037"
 doi: "10.1093/gji/ggy500"
 ---
 

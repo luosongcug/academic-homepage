@@ -223,18 +223,6 @@ sections:
   #   design:
   #     columns: '2'
   #     view: citation
-  - block: collection
-    id: cv
-    content:
-      title: CV
-      text: |-
-        (./cv/)
-      filters:
-        folders:
-          - cv
-    design:
-      columns: '2'
-      view: compact
   
   # - block: collection
   #   id: talks

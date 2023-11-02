@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Journal of Applied Geophysics*"
-url_pdf: "<Go to ISI>://WOS:000371361200015"
+# url_pdf: "<Go to ISI>://WOS:000371361200015"
 doi: "10.1016/j.jappgeo.2016.01.023"
 ---
 
