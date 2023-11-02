@@ -227,6 +227,8 @@ sections:
     id: cv
     content:
       title: CV
+      text: |-
+        (./cv/)
       filters:
         folders:
           - cv
