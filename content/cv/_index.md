@@ -20,9 +20,9 @@ title: Curriculum Vitae
 ### Employment
 
 - **2020/04–present**: Associate Researcher,
-					   [University of Science and Technology of China](https://www.ustc.edu.cn/), Hefei, China
+        [University of Science and Technology of China](https://www.ustc.edu.cn/), Hefei, China
 - **2018/02–2020/03**: Postdoctoral Research Associate,
-					   [University of Science and Technology of China](https://www.ustc.edu.cn/), Hefei, China
+        [University of Science and Technology of China](https://www.ustc.edu.cn/), Hefei, China
 
 <!-- ---
 
