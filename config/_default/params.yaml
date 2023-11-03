@@ -76,10 +76,10 @@ footer:
 
 # Localization
 
-# locale:
-#   date_format: 'Jan 2, 2006'
-#   time_format: '3:04 PM'
-#   address_format: en-us
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
 
@@ -92,7 +92,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/luosongcug/starter-academic'
+    url: 'https://github.com/luosongcug/academic-homepage'
     content_dir: content
     branch: main
   avatar:
