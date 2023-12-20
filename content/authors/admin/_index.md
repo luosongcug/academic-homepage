@@ -92,6 +92,6 @@ highlight_name: true
 ---
 
 <!-- My research interests mainly focus on developing advanced geophysical techniques in studying multiscale Earth structures and put forward to solve issues in earthquake disaster and natural resources. -->
-My research mainly focuses on the development of seismic imaging and inversion techniques for studying multiscale Earth structures and earthquake sources, while addressing challenges in tectonophysics, earthquake disasters, and natural resource exploration.
+My research mainly focuses on the development of seismic imaging and inversion techniques for studying multiscale Earth structures and earthquake sources, while addressing challenges in tectonophysics, earthquake disasters, and natural resource exploration. 
 {style="text-align: justify;"}
 <!-- Through my research, I strive to advance our understanding of complex Earth systems and propose impactful solutions for a sustainable future. -->
