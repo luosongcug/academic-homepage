@@ -19,7 +19,7 @@ title: Curriculum Vitae
 
 ### Employment
 
-- **2023/12–present: Associate Professor,
+- **2023/12–present**: Associate Professor,
         [Chang'an University](https://www.chd.edu.cn/), Xi'an, China
 - **2020/04–2023/11**: Associate Researcher,
         [University of Science and Technology of China](https://www.ustc.edu.cn/), Hefei, China
